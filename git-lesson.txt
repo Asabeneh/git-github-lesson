@@ -1,1 +1,9 @@
 Today, we will learn Git and GitHub
+Let us add the commands we learn here:
+git init - to initialize a local git repository
+git status - to check status
+git add filename - adding a file to a staging area
+git rm --cached filename - to remove from a staging area(unstagging)
+git remote add origin url
+git commit -m 'commit message' - to do commit
+git push -u origin master
